@@ -1,0 +1,24 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 100%;
+}
+
+
+/* Hello Block */
+.hello-container {
+    margin-top: 75px;
+    height: 100vh;
+}
+
+.welcome-header {
+    font-size: 6rem;
+}
